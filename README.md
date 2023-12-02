@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Amenda Maria Johnson<br>I'm pursuing a degree in Computer Application at Kristu Jyoti College of Management and Technology, Changanacherry, Kottayam, Kerala.<br>I'm interested to do collaborative works to improve my skills and to showcase it 
+Hey, I'm Amenda Maria Johnson<br>I'm pursuing a degree in Computer Application at Kristu Jyoti College of Management and Technology, Changanacherry, Kottayam, Kerala.<br>I'm interested to do collaborative works to improve my skills and to showcase it. 
 
 
 ## 🌐 Socials:
