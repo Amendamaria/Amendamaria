@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hey, I'm Amenda Maria Johnson<br>I'm pursuing a degree in Computer Application at Kristu Jyoti College of Management and Technology, Changanacherry, Kottayam, Kerala.<br>I'm interested to do collaborative works to improve my skills and to showcase it. 
-
+I have a passion for design and a knack for frontend development, which I leverage to enhance the user experience and interface of our web platforms and applications. I have multiple skills in Figma, HTML, Css, Js which I acquired during my degree in Computer Application at Kristu Jyoti College of Management and Technology. I also have experience in audio editing, which I use to produce and edit podcasts that feature our products and services, as well as industry trends and insights. I am motivated by the opportunity to use my creativity and technical skills to create solutions that solve real-world problems and delight our users.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Amenda) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amenda005) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Amenda) 
